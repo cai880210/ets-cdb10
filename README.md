@@ -1,5 +1,5 @@
 ## Test suite: ets-cdb10
-
+OGC-CDB(https://docs.ogc.org/cs/18-053r2/18-053r2.html#47)
 ### Scope
 
 This test suite validates the conformance level of a local CDB on the filesystem.
